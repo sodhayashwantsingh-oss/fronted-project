@@ -1,28 +1,30 @@
 # fronted-project
-# Sudoku Solver
 
-A graphical Sudoku solver built with Python and Tkinter that features both instant and step-by-step solving visualization.
+🎬 Netflix Clone
 
-## Features
-- Interactive 9x9 Sudoku grid
-- Instant solve mode
-- Step-by-step visualization showing backtracking algorithm
-- Input validation
-- Color-coded 3x3 blocks
+A responsive Netflix Clone built using HTML, CSS, and JavaScript.
+This project replicates the front-end design of Netflix including homepage layout, banner section, movie rows, and interactive UI elements.
 
-## Requirements
-- Python 3.x
-- Tkinter (usually comes with Python)
+🚀 Features
 
-## How to Use
-1. Run the program: `python sudoku_solver.py`
-2. Enter known numbers in the grid
-3. Click "Solve Instantly" for immediate solution
-4. Click "Solve Step-by-Step" to watch the algorithm work
-5. Use "Clear" to reset the board
+🔥 Netflix-style homepage layout
 
-## Algorithm
-The solver uses a backtracking algorithm that recursively tries numbers 1-9 in empty cells until a valid solution is found.
+🎥 Hero banner section
 
-## Author
-[Your Name]
+📺 Movie/Series rows
+
+🎨 Responsive design
+
+🖱 Hover effects & smooth transitions
+
+📱 Mobile-friendly UI
+
+🎬 Interactive buttons using JavaScript
+
+🛠 Technologies Used
+
+HTML5 – Structure of the website
+
+CSS3 – Styling and responsive layout
+
+JavaScript (Vanilla JS) – Interactivity and dynamic behavior
